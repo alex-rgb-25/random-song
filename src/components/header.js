@@ -32,7 +32,6 @@ class Header extends React.Component{
     render(){
         return(<div style={{marginTop:'40px'}}>
             <button onClick={this.generateRand} className={`btn btn-outline-secondary`}>Random song</button>
-            <Heart nr={this.generateNum()}/>
             <hr></hr>
         <div style={{marginTop:'40px'}}>
         {this.state.display && <Video num={this.generateNum()}/> } </div>

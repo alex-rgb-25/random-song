@@ -1,5 +1,6 @@
 import React from 'react';
 import Lyrics from './lyrics';
+import classes from './video.module.css';
 
 class Video extends React.Component{
     constructor(props){
@@ -132,6 +133,10 @@ var rgbToHex = function (rgb) {
   const style = {
     color: xssw
 }
+
+
+
+
 console.log(xssw)
     return(
         
@@ -139,7 +144,13 @@ console.log(xssw)
             
         <div className={'row'}>
             
-            <div className={`col`}><iframe width="560" height="315" src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <div className={`col`}>
+                
+                <div className={classes.videoContainer}>
+                <iframe width="560" height="315" src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+
+
             <h2 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h2>
              
             </div>
