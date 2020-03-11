@@ -1,0 +1,12 @@
+body{
+    background-color:red;
+}
+
+
+.car{
+    font-family: 'Dosis', sans-serif;
+}
+
+.bor{
+    border: 1px solid black;
+}
