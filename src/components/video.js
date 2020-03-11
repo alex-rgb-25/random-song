@@ -106,7 +106,7 @@ render(){
 
 ];
 
-var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}`;
+var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1`;
 
 
 
