@@ -104,12 +104,18 @@ render(){
         linkk: '1knh-_SYrfQ'
     },
 
+    {
+        author: 'Ashe',
+        name: "Moral of the Story",
+        linkk: 'WQq98YPV8yk'
+    },
+
 ];
 
 var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1`;
+var srcc3=`https://www.youtube.com/watch?v=${arr[this.props.num].linkk}`;
 
-
-
+var srcc2=`https://twitter.com/intent/tweet?hashtags=youtube&related=freecodecamp&text=${srcc3}`;
 
 
 
@@ -151,10 +157,12 @@ console.log(xssw)
                 </div>
 
 
-            <h2 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h2>
-             
+            <h3 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h3>
+             <a target="_blank" href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
+             <br></br>
             </div>
             
+
 
             <div className={`col`}>
             
