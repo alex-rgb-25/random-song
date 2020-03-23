@@ -16,8 +16,8 @@ class Video extends React.Component{
 render(){
     const arr = [{
         author: 'Lana Del Rey',
-        name: 'Never Let Me Go',
-        linkk: 'tDX_XmdccHY'
+        name: 'Venice Bitch',
+        linkk: 'Qg3DxELVPj4'
     },
 
     {
@@ -110,6 +110,14 @@ render(){
         linkk: 'WQq98YPV8yk'
     },
 
+    {
+        author: 'Lana Del Rey',
+        name: 'Mariners Apartment Complex',
+        linkk: '1uFv9Ts7Sdw'
+    },
+
+    
+
 ];
 
 var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1`;
@@ -137,7 +145,9 @@ var rgbToHex = function (rgb) {
   const xssw = fullColorHex(Math.floor(Math.random() * 250), Math.floor(Math.random() * 250), Math.floor(Math.random() * 250)); 
 
   const style = {
-    color: xssw
+    color: xssw,
+    fontSize:'27px',
+    fontFamily: '"Shadows Into Light", cursive',
 }
 
 
@@ -150,21 +160,38 @@ console.log(xssw)
             
         <div className={'row'}>
             
-            <div className={`col`}>
-                
+            <div className={`col-7`}>
+
+
+                <div >
+
+                <h4 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
                 <div className={classes.videoContainer}>
-                <iframe width="560" height="315" src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe style={brd} width="560" height="315" src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+
+                
+                </iframe>
                 </div>
+               
+
+            
+
+            </div>
 
 
-            <h3 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h3>
-             <a target="_blank" href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
+
+             <a target="_blank" style={{fontSize:'20px', float:'left',paddingLeft:'30px'}} href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
              <br></br>
+                <hr />
+             <div>
+                <h5 style={{display:'inline',color:'#091A26',marginTop:'10px'}}>By </h5>
+                <img style={{width:'20%', weight:'20%'}}src="signature.jpg" />
+            </div>
             </div>
             
 
 
-            <div className={`col`}>
+            <div className={`col-5`}>
             
             <Lyrics num={this.props.num}/>
             
@@ -180,5 +207,18 @@ console.log(xssw)
 
 
 }
+
+
+
+
+
+const brd= {
+    border: '14px double #091A26',
+    borderRadius: '5px 100px 5px 5px',
+    marginLeft:'7px',
+
+}
+
+
 
 export default Video;
