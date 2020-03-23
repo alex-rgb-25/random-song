@@ -167,7 +167,7 @@ console.log(xssw)
 
                 <h4 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
                 <div className={classes.videoContainer}>
-                <iframe style={brd} width="560" height="315" src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                <iframe style={brd}  src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 
                 
                 </iframe>
@@ -214,7 +214,7 @@ console.log(xssw)
 
 const brd= {
     border: '14px double #091A26',
-    borderRadius: '5px 100px 5px 5px',
+    borderRadius: '5px 40% 5px 5px',
     marginLeft:'7px',
 
 }
