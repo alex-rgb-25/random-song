@@ -160,7 +160,7 @@ console.log(xssw)
             
         <div className={'row'}>
             
-            <div className={`col-7`}>
+            <div className={`col-sm-7`}>
 
 
                 <div >
@@ -183,15 +183,12 @@ console.log(xssw)
              <a target="_blank" style={{fontSize:'20px', float:'left',paddingLeft:'30px'}} href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
              <br></br>
                 <hr />
-             <div>
-                <h5 style={{display:'inline',color:'#091A26',marginTop:'10px'}}>By </h5>
-                <img style={{width:'20%', weight:'20%'}}src="signature.jpg" />
-            </div>
+
             </div>
             
 
 
-            <div className={`col-5`}>
+            <div className={`col-sm-5`}>
             
             <Lyrics num={this.props.num}/>
             
