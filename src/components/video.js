@@ -166,11 +166,13 @@ console.log(xssw)
                 <div >
 
                 <h4 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
+             
                 <div className={classes.videoContainer}>
                 <iframe   src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-
-                
                 </iframe>
+
+
+
                 </div>
                
 

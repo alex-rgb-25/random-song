@@ -1,6 +1,6 @@
 import React from 'react';
 import Video from './video'
-import Heart from './heart'
+import classes from './header.module.css'
 class Header extends React.Component{
     constructor(props){
         super(props);
@@ -30,12 +30,17 @@ class Header extends React.Component{
 
 
     render(){
-        return(<div style={{marginTop:'40px'}}>
+        return(
+        
+        <div style={{marginTop:'40px'}}>
             <button onClick={this.generateRand} className={`btn btn-outline-secondary`}>Random song</button>
             <div style={{borderBottom:'7px solid black', marginTop:'4px'}}></div>
         <div style={{marginTop:'40px'}}>
+        </div>
         {this.state.display && <Video num={this.generateNum()}/> } </div>
-        </div>);
+
+        
+        );
     }
 }
 
