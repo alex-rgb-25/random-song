@@ -4,6 +4,7 @@ import './App.css';
 import Lyrics from './components/lyrics';
 import Video from './components/video';
 import Header from './components/header';
+
 function App() {
   return (
     <div className="App">

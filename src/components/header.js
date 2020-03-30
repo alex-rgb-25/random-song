@@ -18,7 +18,7 @@ class Header extends React.Component{
     }
 
     generateNum = () =>{
-       return Math.floor(Math.random() * 16)
+       return Math.floor(Math.random() * 18)
     }
 
     generateRand = () =>{

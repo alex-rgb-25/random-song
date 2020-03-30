@@ -1,7 +1,6 @@
 import React from 'react';
 import Lyrics from './lyrics';
 import classes from './video.module.css';
-
 class Video extends React.Component{
     constructor(props){
         super(props);
@@ -12,8 +11,12 @@ class Video extends React.Component{
         }
     }
 
+    
 
 render(){
+
+
+
     const arr = [{
         author: 'Lana Del Rey',
         name: 'Venice Bitch',
@@ -116,11 +119,23 @@ render(){
         linkk: '1uFv9Ts7Sdw'
     },
 
+    {
+        author: 'Eden',
+        name: 'Wake Up',
+        linkk: 'YthChN1Wq8M'
+    },
+
+    {
+        author: 'Old Man Canyon',
+        name: 'Phantoms and Friends',
+        linkk: 'hzIGIBQXVqA'
+    },
+
     
 
 ];
 
-var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1`;
+var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1?&autoplay=1`;
 var srcc3=`https://www.youtube.com/watch?v=${arr[this.props.num].linkk}`;
 
 var srcc2=`https://twitter.com/intent/tweet?hashtags=youtube&related=freecodecamp&text=${srcc3}`;
@@ -149,7 +164,6 @@ var rgbToHex = function (rgb) {
     fontSize:'27px',
     fontFamily: '"Shadows Into Light", cursive',
 }
-
 
 
 

@@ -941,12 +941,6 @@ render(){
 
 
 
-
-
-
-
-
-
     {
         author: 'Lana Del Rey',
         name: 'Mariners Apartment Complex',
@@ -997,6 +991,136 @@ render(){
     },
 
 
+    {
+        author: 'Eden',
+        name: 'Wake Up',
+        text: 
+        [
+        "'Cause we've been driving so long",<br />,
+        "I can't remember how we got here",<br />,
+        "Or how we survived so long",<br />,
+        "I'm trying to run from our pride",<br />,
+        "'Til you set fire to my atmosphere",<br />,
+        "And I remember how I spent the twenty-third",<br />,
+        "Feeling six feet under",<br />,
+        "When I'm 30, 000 feet in the air",<br />,
+        "Chasing that sundown",<br />,
+        "So far East, I'm Westbound",<br />,
+        "Feeling like the edge of this world is near",<br />,
+        "But you'll feel better when you wake up",<br />,
+        "Swear to God I'll make up",<br />,
+        "Everything and more when I get back someday",<br />,
+        "This is more than just a phase, love",<br />,
+        "Shooting stars all break up",<br />,
+        "And even though it seems like half the world away",<br />,
+        "Things will be better in America",<br />,
+        "Heard the streets are gold there",<br />,
+        "Maybe I can fly you out this place someday",<br />,
+        "Chasing dreams like I'm on novocain",<br />,
+        "Screaming through your airways",<br />,
+        "Looking back, I almost thought I heard you say",<br />,
+        "Stay, you're not gonna leave me",<br />,
+        "This place is right where you need to be",<br />,
+        "And why your words gotta mean so much to them",<br />,
+        "And they mean nothing to me?",<br />,
+        "So stay, you're not what you're hearing",<br />,
+        "'Cause I've been watching you changing",<br />,
+        "And who said you're one in a million",<br />,
+        "Anyway?",<br />,
+        "'Cause you see only what you want to",<br />,
+        "Your tunnel vision haunts you",<br />,
+        "And you can't see what's wrong",<br />,
+        "And you keep sleeping through the PM",<br />,
+        "Eyes wide open when you're dreaming",<br />,
+        "You're sleepwalking, just keep talking",<br />,
+        "And maybe you can talk your way out of this deep end",<br />,
+        "No B plan in your system",<br />,
+        "Just tell me what you're thinking",<br />,
+        "I'm scared that you might fall",<br />,
+        "But you're not",<br />,
+        "But you're not",<br />,
+        "And you'll feel better when you wake up",<br />,
+        "Taking off your makeup",<br />,
+        "Sun always seems to wash our fears away",<br />,
+        "And it's always shining somewhere",<br />,
+        "I just gotta get there",<br />,
+        "And even though it seems like half the world away",<br />,
+        "Things are better in America",<br />,
+        "Heard the streets are gold there",<br />,
+        "Maybe I can fly you out this place someday",<br />,
+        "Chasing dreams like I'm on novocain",<br />,
+        "Screaming through your airways",<br />,
+        "Looking back, I almost thought I heard you say",<br />,
+        "Stay, you're not gonna leave me",<br />,
+        "This place is right where you need to be",<br />,
+        "And why your words gotta mean so much to them",<br />,
+        "When they mean nothing to me",<br />,
+        "So stay, you're not what you're hearing",<br />,
+        "'Cause I've been watching you changing",<br />,
+        "And who said you're one in a million",<br />,
+        "You're so much better than that",<br />,
+        "(Ohhhh)",<br />,
+        "You're so much better than that (Ohh)",<br />,
+        "(Ohhhh)",<br />,
+        "You're so much better than that (Ohh)",<br />,
+        "Stay, you're not what you were hearing (Ohh)",<br />,
+        "'Cause I've been watching you changing (Ohh)",<br />,
+        "And who said you're one in a million (Ohh)",<br />,
+        "Anyway?",<br />,
+        "And you'll feel better when you wake up",<br />,
+        "Swear to God I'll make up",<br />,
+        "Everything or more when I get back someday",<br />,
+        "Chasing dreams like I'm on novocain",<br />,
+        "Screaming through your airways",<br />,
+        "Looking back, I almost thought I heard you say",<br />,
+        "You're so much better than that"
+         ],
+
+        linkk: 'YthChN1Wq8M'
+    },
+
+
+    {
+        author: 'Old Man Canyon',
+        name: 'Phantoms and Friends',
+        text: 
+        [
+        "When I awoke I felt the call to go",<br />,
+        "Those places that I never thought I'd go",<br />,
+        "I spent the time to see which way to walk",<br />,
+        "But now that road just crumbles as I talk",<br />,
+        "Don't let the ones that want to steal your dreams",<br />,
+        "They'll steal your dreams away",<br />,
+        "Just laugh and let it go",<br />,
+        "Don't let the ones that want to steal your dreams",<br />,
+        "They'll steal your dreams away",<br />,
+        "Just laugh and let it go",<br />,
+        "So you've tried to pass along your doubt",<br />,
+        "Oh you need somebody's ears to hear you shout",<br />,
+        "All your wasted days and twisted ways are up",<br />,
+        "So now its time to see the cards you're dealt",<br />,
+        "Don't let the ones that want to steal your dreams",<br />,
+        "They'll steal your dreams away",<br />,
+        "Just laugh and let it go",<br />,
+        "I know all your names",<br />,
+        "Pointing different ways",<br />,
+        "Let me out",<br />,
+        "I came up I saw you there",<br />,
+        "Now I know",<br />,
+        "Now I know",<br />,
+        "I rose up my fear was gone",<br />,
+        "Now I know",<br />,
+        "Now I know",<br />,
+        "Don't let the ones that want to steal your dreams",<br />,
+        "They'll steal your dreams away",<br />,
+        "Just laugh and let it go",<br />,
+        "Don't let the ones that want to steal your dreams",<br />,
+        "They'll steal your dreams away",<br />,
+        "Just laugh and let it go"
+         ],
+
+        linkk: 'hzIGIBQXVqA'
+    },
 
 ];
 
