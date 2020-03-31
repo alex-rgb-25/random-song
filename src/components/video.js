@@ -131,11 +131,23 @@ render(){
         linkk: 'hzIGIBQXVqA'
     },
 
-    
+    {
+        author: 'Maybeshewill',
+        name: 'He Films The Clouds Pt. 2',
+        linkk: 'lVopcyHcEgU'
+    },
+
+
+    {
+        author: 'Trevor Daniel',
+        name: "Falling",
+        linkk: 'L7mfjvdnPno'
+    },
+
 
 ];
 
-var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1?&autoplay=1`;
+var srcc=`https://www.youtube.com/embed/${arr[this.props.num].linkk}?playsinline=1`;
 var srcc3=`https://www.youtube.com/watch?v=${arr[this.props.num].linkk}`;
 
 var srcc2=`https://twitter.com/intent/tweet?hashtags=youtube&related=freecodecamp&text=${srcc3}`;

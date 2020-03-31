@@ -1122,6 +1122,73 @@ render(){
         linkk: 'hzIGIBQXVqA'
     },
 
+
+    {
+        author: 'Maybeshewill',
+        name: 'He Films The Clouds Pt. 2',
+        text: 
+        ["Now we're apart.",<br />,
+        "Though not through choice.",<br />,
+        "Do we stay mute?",<br />,
+        "Or raise our voice?",<br />,
+        "Now we're apart.",<br />,
+        "Though not through choice.",<br />,
+        "Do we stay mute?",<br />,
+        "Or raise our voice?",<br />,
+        "Now we're apart.",<br />,
+        "Though not through choice.",<br />,
+        "Do we stay mute?",<br />,
+        "Or raise our voice?"
+         ],
+
+        linkk: 'lVopcyHcEgU'
+    },
+
+
+    {
+        author: 'Trevor Daniel',
+        name: "Falling",
+        text: 
+        ["My last made me feel like I would never try again",<br />,
+        "But when I saw you, I felt something I never felt",<br />,
+        "Come closer, I'll give you all my love",<br />,
+        "If you treat me right, baby, I'll give you everything",<br />,
+        "My last made me feel like I would never try again",<br />,
+        "But when I saw you, I felt something I never felt",<br />,
+        "Come closer, I'll give you all my love",<br />,
+        "If you treat me right, baby, I'll give you everything",<br />,
+        "Talk to me, I need to hear you need me like I need you",<br />,
+        "Fall for me, I wanna know you feel how I feel for you, love",<br />,
+        "Before you, baby, I was numb, drown the pain by pouring up",<br />,
+        "Speeding fast on the run, never want to get caught up",<br />,
+        "Now you the one that I'm calling",<br />,
+        "Swore that I'd never forget, don't think I'm just talking",<br />,
+        "I think I might go all in, no exceptions, girl, I need ya",<br />,
+        "Feeling like I'm out of my mind, 'cause I can't get enough",<br />,
+        "Only one that I give my time, 'cause I got time for ya",<br />,
+        "Might make an exception for ya, 'cause I been feeling ya",<br />,
+        "Think I might be out of my mind, I think that you're the one",<br />,
+        "My last made me feel like I would never try again",<br />,
+        "But when I saw you, I felt something I never felt",<br />,
+        "Come closer, I'll give you all my love",<br />,
+        "If you treat me right, baby, I'll give you everything",<br />,
+        "My last made me feel like I would never try again",<br />,
+        "But when I saw you, I felt something I never felt",<br />,
+        "Come closer, I'll give you all my love",<br />,
+        "If you treat me right, baby, I'll give you everything",<br />,
+        "I'll never give my all again",<br />,
+        "'Cause I'm sick of falling down",<br />,
+        "When I open up and give my trust",<br />,
+        "They find a way to break it down",<br />,
+        "Tear me up inside, and you break me down"
+         ],
+
+        linkk: 'L7mfjvdnPno'
+    },
+
+
+
+
 ];
 
 
