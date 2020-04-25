@@ -1384,6 +1384,22 @@ render(){
     },
 
 
+    {
+        author: 'Hammock',
+        name: "(Let's Kiss) While All The Stars Are Falling Down",
+        text: 
+        [
+            "Let's kiss while all the stars are falling down",<br />,
+            "Tonight we live like no one is around",<br />,
+            "Forget the lies that we were told",<br />,
+            "Now is the only truth we know",<br />,
+            "Tonight we fly while the stars are falling down",<br />,
+            "They're falling down",<br />,
+            "Down",<br />,
+         ],
+        linkk: 'P4oV34inoUA'
+    },
+
 
 
 ];
