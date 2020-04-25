@@ -156,6 +156,13 @@ render(){
         linkk: 'KAFOpywZbMM'
     },
 
+    {
+        author: 'Tove Lo',
+        name: "Habbits",
+        linkk: 'oh2LWWORoiM'
+    },
+
+
 
 ];
 

@@ -1302,6 +1302,70 @@ render(){
 
 
 
+    {
+        author: 'Tove Lo',
+        name: "Habbits",
+        text: 
+        ["I gotta stay high all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "High all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Spend my days locked in a haze",<br />,
+        "Trying to forget you babe",<br />,
+        "I fall back down",<br />,
+        "Gotta stay high all my life",<br />,
+        "To forget I'm missing you",<br />,
+       "Ooh-ooh, ooh-ooh",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "I gotta stay",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "I gotta stay",<br />,
+        "I gotta stay",<br />,
+        "I gotta stay high all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "High all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Spend my days locked in a haze",<br />,
+        "Trying to forget you babe",<br />,
+        "I fall back down",<br />,
+        "Gotta stay high all my life",<br />,
+        "To forget I'm missing you",<br />,
+        "I gotta stay",<br />,
+        "Staying in my play pretend",<br />,
+        "Where the fun ain't got no end",<br />,
+        "Ooh",<br />,
+        "Can't go home alone again",<br />,
+        "Need someone to numb the pain",<br />,
+        "Ooh",<br />,
+        "Staying in my play pretend",<br />,
+        "Where the fun ain't got no end",<br />,
+        "Ooh",<br />,
+        "Can't go home alone again",<br />,
+        "Need someone to numb the pain",<br />,
+        "You're gone and I gotta stay",<br />,
+        "High all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "High all the time",<br />,
+        "To keep you off my mind",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "Ooh-ooh, ooh-ooh",<br />,
+        "I gotta stay, I gotta stay",<br />,
+
+         ],
+
+        linkk: 'oh2LWWORoiM'
+    },
+
+
+
 
 ];
 
