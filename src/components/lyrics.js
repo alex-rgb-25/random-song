@@ -1365,6 +1365,25 @@ render(){
     },
 
 
+    {
+        author: 'Tokyo Ghoul OST',
+        name: "Yutaka Yamada",
+        text: 
+        [
+         ],
+        linkk: '3S1NmtWDVYk'
+    },
+
+    {
+        author: 'Mono',
+        name: "Pure as Snow",
+        text: 
+        [
+         ],
+        linkk: 'co5gy_2uOEY'
+    },
+
+
 
 
 ];

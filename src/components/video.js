@@ -161,7 +161,17 @@ render(){
         name: "Habbits",
         linkk: 'oh2LWWORoiM'
     },
+    {
+        author: 'Tokyo Ghoul OST',
+        name: "Yutaka Yamada",
+        linkk: '3S1NmtWDVYk'
+    },
 
+    {
+        author: 'Mono',
+        name: "Pure as Snow",
+        linkk: 'co5gy_2uOEY'
+    },
 
 
 ];
