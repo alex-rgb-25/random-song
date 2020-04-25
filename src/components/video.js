@@ -144,6 +144,18 @@ render(){
         linkk: 'L7mfjvdnPno'
     },
 
+    {
+        author: 'Mudflow',
+        name: 'The Sense of me / Chemicals',
+        linkk: 'lm7z0pqRwdw'
+    },
+
+    {
+        author: 'Linkin Park',
+        name: "Valentine's Day",
+        linkk: 'KAFOpywZbMM'
+    },
+
 
 ];
 
