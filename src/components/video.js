@@ -180,6 +180,12 @@ render(){
         linkk: 'P4oV34inoUA'
     },
 
+    {
+        author: 'Lilly Wood & The Prick and Robin Schulz',
+        name: "Prayer In C (Robin Schulz Remix)",
+        linkk: 'fiore9Z5iUg'
+    },
+
 
 ];
 
@@ -211,6 +217,10 @@ var rgbToHex = function (rgb) {
     color: xssw,
     fontSize:'27px',
     fontFamily: '"Shadows Into Light", cursive',
+    backgroundColor:"white",
+    marginLeft:'30px',
+    width:'87%',
+
 }
 
 

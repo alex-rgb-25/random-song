@@ -1424,6 +1424,79 @@ render(){
     },
 
 
+    {
+        author: 'Lilly Wood & The Prick and Robin Schulz',
+        name: "Prayer In C (Robin Schulz Remix)",
+        text: 
+        [
+            "Yah, you never said a word",<br />,
+            "You didn't send me no letter",<br />,
+            "Don't think I could forgive you",<br />,
+            
+            "See our world is slowly dying",<br />,
+            "I'm not wasting no more time",<br />,
+            "Don't think I could believe you",<br />,
+            
+            "Yah, you never said a word",<br />,
+            "You didn't send me no letter",<br />,
+            "Don't think I could forgive you",<br />,
+            
+            "See our world is slowly dying",<br />,
+            "I'm not wasting no more time",<br />,
+            "Don't think I could believe you",<br />,
+            
+            "Yah, our hands will get more wrinkled",<br />,
+            "And our hair will be grey",<br />,
+            "Don't think I could forgive you",<br />,
+            
+            "And see the children are starving",<br />,
+            "And their houses were destroyed",<br />,
+            "Don't think they could forgive you",<br />,
+            
+            "Hey, when seas will cover lands",<br />,
+            "And when men will be no more",<br />,
+            "Don't think you can forgive you",<br />,
+            
+            "Yah when there'll just be silence",<br />,
+            "And when life will be over",<br />,
+            "Don't think you will forgive you",<br />,
+            
+            "Yah, you never said a word",<br />,
+            "You didn't send me no letter",<br />,
+            "Don't think I could forgive you",<br />,
+            
+            "See our world is slowly dying",<br />,
+            "I'm not wasting no more time",<br />,
+            "Don't think I could believe you",<br />,
+            
+            "Yah, you never said a word",<br />,
+            "You didn't send me no letter",<br />,
+            "Don't think I could forgive you",<br />,
+            
+            "See our world is slowly dying",<br />,
+            "I'm not wasting no more time",<br />,
+           "Don't think I could believe you",<br />,
+            
+            "Yah, our hands will get more wrinkled",<br />,
+            "And our hair will be grey",<br />,
+           "Don't think I could forgive you",<br />,
+            
+            "And see the children are starving",<br />,
+            "And their houses were destroyed",<br />,
+            "Don't think they could forgive you",<br />,
+            
+            "Hey, when seas will cover lands",<br />,
+            "And when men will be no more",<br />,
+            "Don't think you can forgive you",<br />,
+            
+            "Yah when there'll just be silence",<br />,
+            "And when life will be over",<br />,
+            "Don't think you will forgive you",<br />,
+         ],
+        linkk: 'fiore9Z5iUg'
+    },
+
+
 
 ];
 
@@ -1431,9 +1504,11 @@ render(){
     if(this.state.visibility){
     return(
         <div >
-            <button onClick={this.showLyrics} className={`btn btn-outline-danger`}>Hide lyrics</button><br />
-            <div className={classes.car}>
+            <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Hide lyrics</button><br />
+            <div className={classes.paper}>
+                <div className={classes.car}>
                 {arr[this.props.num].text}
+            </div>
             </div>
         </div>
 
@@ -1441,12 +1516,20 @@ render(){
     }else{
         return(
             <div>
-                <button onClick={this.showLyrics} className={`btn btn-outline-secondary`}>Show lyrics</button><br />
+                <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Show lyrics</button><br />
             </div>
     
         );
     }
 }
+
+}
+
+
+const brd= {
+    border: '14px double #091A26',
+    borderRadius: '5px 20% 5px 5px',
+    marginLeft:'7px',
 
 }
 
