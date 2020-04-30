@@ -1498,6 +1498,7 @@ render(){
 
 
 
+
 ];
 
 
@@ -1505,7 +1506,7 @@ render(){
     return(
         <div >
             <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Hide lyrics</button><br />
-            <div className={classes.paper}>
+            <div id="text" className={classes.paper}>
                 <div className={classes.car}>
                 {arr[this.props.num].text}
             </div>
@@ -1515,7 +1516,7 @@ render(){
     );
     }else{
         return(
-            <div>
+            <div id="text">
                 <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Show lyrics</button><br />
             </div>
     

@@ -186,6 +186,8 @@ render(){
         linkk: 'fiore9Z5iUg'
     },
 
+    
+
 
 ];
 
@@ -237,7 +239,7 @@ console.log(xssw)
 
                 <div >
 
-                <h4 style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
+                <h4 id="author" style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
              
                 <div className={classes.videoContainer}>
                 <iframe   src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
@@ -254,7 +256,7 @@ console.log(xssw)
 
 
 
-             <a target="_blank" style={{fontSize:'20px', float:'left',paddingLeft:'30px'}} href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
+             <a id="tweet-quote" target="_blank" style={{fontSize:'20px', float:'left',paddingLeft:'30px'}} href ={srcc2} >Share on <i class="fab fa-twitter"></i></a>
              <br></br>
                 <hr />
 
