@@ -599,7 +599,10 @@ render(){
     {
         author: 'Pascal Letoublon',
         name: 'Friendships',
-        text: "",
+        text: 
+        [
+            " ",<br />,
+         ],
 
         linkk: '5rmb7WhmW30'
     },
@@ -846,7 +849,10 @@ render(){
     {
         author: 'Frames',
         name: "Don't Stay Here",
-        text: "",
+        text: 
+        [
+            " ",<br />,
+         ],
         linkk: '1knh-_SYrfQ'
     },
 
@@ -1393,6 +1399,7 @@ render(){
         name: "Yutaka Yamada",
         text: 
         [
+            " ",<br />,
          ],
         linkk: '3S1NmtWDVYk'
     },
@@ -1401,9 +1408,10 @@ render(){
         author: 'Mono',
         name: "Pure as Snow",
         text: 
-        [
-         ],
-        linkk: 'co5gy_2uOEY'
+            [
+                " ",<br />,
+             ],
+        linkk: 'NWckGUWKFDE'
     },
 
 
@@ -1496,6 +1504,71 @@ render(){
         linkk: 'fiore9Z5iUg'
     },
 
+
+
+
+    {
+        author: 'Axwell Λ Ingrosso',
+        name: "More Than You Know",
+        text: 
+        [
+            "I just need to get it off my chest",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "You should know that, baby, you're the best",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "I saw it coming, from miles away",<br />,
+            "I better speak up if I got something to say",<br />,
+            "'Cause it ain't over, until she sings",<br />,
+            "You had your reasons, you had a few",<br />,
+            "But you knew that I would go anywhere for you",<br />,
+            "'Cause it ain't over, until she sings",<br />,
+            "I just need to get it off my chest",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "You should know that baby you're the best",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Your good intentions are sweet and pure",<br />,
+            "But they can never tame a fire like yours",<br />,
+            "No it ain't over, until she sings",<br />,
+            "Right where you wanted, down on my knees",<br />,
+            "You got me begging, pretty baby set me free",<br />,
+            "'Cause it ain't over, until she sings",<br />,
+            "Come a little closer, let me taste your smile",<br />,
+            "Until the morning lights",<br />,
+            "Ain't no going back the way you look tonight",<br />,
+            "I see it in your eyes",<br />,
+            "I just need to get it off my chest",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "You should know that baby you're the best",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "I just need to get it off my chest",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "You should know that baby you're the best",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "I just need to get it off my chest",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+            "You should know that baby you're the best",<br />,
+            "Yeah, more than you know",<br />,
+            "Yeah, more than you know",<br />,
+         ],
+        linkk: 'GsF05B8TFWg'
+    },
 
 
 

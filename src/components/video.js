@@ -170,7 +170,7 @@ render(){
     {
         author: 'Mono',
         name: "Pure as Snow",
-        linkk: 'co5gy_2uOEY'
+        linkk: 'NWckGUWKFDE'
     },
 
 
@@ -185,6 +185,13 @@ render(){
         name: "Prayer In C (Robin Schulz Remix)",
         linkk: 'fiore9Z5iUg'
     },
+
+    {
+        author: 'Axwell Λ Ingrosso',
+        name: "More Than You Know",
+        linkk: 'GsF05B8TFWg'
+    },
+
 
     
 
@@ -239,7 +246,7 @@ console.log(xssw)
 
                 <div >
 
-                <h4 id="author" style={style}>{arr[this.props.num].author} - {arr[this.props.num].name}</h4>
+                <h4 id="author" style={style}>&#123; {arr[this.props.num].author} - {arr[this.props.num].name} &#125;</h4>
              
                 <div className={classes.videoContainer}>
                 <iframe   src={srcc} frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
