@@ -1578,9 +1578,9 @@ render(){
     if(this.state.visibility){
     return(
         <div >
-            <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Hide lyrics</button><br />
+            <button style={{color:'#EAD3A8'}} onClick={this.showLyrics} className={`btn btn-outline-light`}>Hide lyrics</button><br />
             <div id="text" className={classes.paper}>
-                <div className={classes.car}>
+                <div style={{color:'white'}} className={classes.car}>
                 {arr[this.props.num].text}
             </div>
             </div>
@@ -1590,7 +1590,7 @@ render(){
     }else{
         return(
             <div id="text">
-                <button onClick={this.showLyrics} className={`btn btn-outline-light`}>Show lyrics</button><br />
+                <button style={{color:'#EAD3A8'}} onClick={this.showLyrics} className={`btn btn-outline-light`}>Show lyrics</button><br />
             </div>
     
         );

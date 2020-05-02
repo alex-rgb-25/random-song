@@ -33,7 +33,7 @@ class Header extends React.Component{
         return(
         
         <div id="quote-box" style={{marginTop:'40px'}}>
-            <button id="new-quote" onClick={this.generateRand} className={`btn btn-outline-secondary`}>Random song</button>
+            <button style={{color:'#EAD3A8'}} id="new-quote" onClick={this.generateRand} className={`btn btn-outline-light`}>Random song</button>
             <div style={{borderBottom:'7px solid black', marginTop:'4px'}}></div>
         <div style={{marginTop:'40px'}}>
         </div>

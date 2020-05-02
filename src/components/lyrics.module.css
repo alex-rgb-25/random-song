@@ -13,7 +13,7 @@ body{
 }
 
 .paper {
-    background: #fff;
+    background: #8b0500;
     padding: 30px;
     position: relative;
     margin-top:10px;
@@ -34,7 +34,7 @@ body{
     position: absolute;
     height: 95%;
     width: 99%;
-    background-color: #eee;
+    background-color: #EAD3A8;
     margin-left:-100px;
   }
   
